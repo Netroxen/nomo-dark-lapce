@@ -4,5 +4,5 @@ display-name = "Nomo Dark Icons"
 author = "netroxen"
 description = "Nomo Dark icon theme for Lapce"
 icon = "assets/logo.png"
-repository = ""
+repository = "Netroxen/nomo-dark-lapce"
 icon-themes = ["nomo.toml"]
