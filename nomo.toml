@@ -34,33 +34,6 @@ name = "Nomo Dark"
 ".github" = "src/folder.github.close.svg"
 "data" = "src/folder.data.close.svg"
 
-[icon-theme.foldername.opened]
-
-".vscode" = "src/folder.vs.open.svg"
-".git" = "src/folder.git.open.svg"
-"spec" = "src/folder.test.open.svg"
-"test" = "src/folder.test.open.svg"
-"tests" = "src/folder.test.open.svg"
-"__tests__" = "src/folder.test.open.svg"
-"node_modules" = "src/folder.js.open.svg"
-"build" = "src/folder.dist.open.svg"
-"bin" = "src/folder.dist.open.svg"
-".bin" = "src/folder.dist.open.svg"
-"dist" = "src/folder.dist.open.svg"
-"deploy" = "src/folder.dist.open.svg"
-"src" = "src/folder.src.open.svg"
-"include" = "src/folder.include.open.svg"
-"source" = "src/folder.src.open.svg"
-"lib" = "src/folder.lib.open.svg"
-"typings" = "src/folder.ts.open.svg"
-"types" = "src/folder.ts.open.svg"
-"dev" = "src/folder.dev.open.svg"
-"prod" = "src/folder.prod.open.svg"
-"api" = "src/folder.api.open.svg"
-"events" = "src/folder.events.open.svg"
-".github" = "src/folder.github.open.svg"
-"data" = "src/folder.data.open.svg"
-
 [icon-theme.filename]
 
 "package.json" = "src/config.npm.svg"
