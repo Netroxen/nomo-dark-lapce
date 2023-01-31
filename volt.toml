@@ -1,0 +1,8 @@
+name = "nomo-dark-icons"
+version = "1.0.0"
+display-name = "Nomo Dark Icons"
+author = "netroxen"
+description = "Nomo Dark icon theme for Lapce"
+icon = "assets/logo.png"
+repository = ""
+icon-themes = ["nomo.toml"]
